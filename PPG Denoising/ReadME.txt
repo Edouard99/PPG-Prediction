@@ -1,0 +1,1 @@
+These 2 files are ipynb files to train models of deep learning to denoise the BVP one is only using the signal, the other the signal + spectrum ! be carefull you might need to recompute the dataset before using it

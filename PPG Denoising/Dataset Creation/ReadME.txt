@@ -1,0 +1,2 @@
+The ipynb file permits to synchronize the blood volume pulse peaks with the ECG peaks (DO NOT TOUCH TO THE OFFSETLIST ! the offsetlist has been done by hand).
+The upynb file creates a clean signal to train a neural network to denoise the signal, tune the file if you want to change the features extracted from it.
