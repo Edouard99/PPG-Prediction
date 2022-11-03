@@ -4,7 +4,7 @@ Hi ! :wave:
 
 Sorry for the mess in this project's code and readMe! I am currently cleaning the project's code and building :construction_worker: the readMe! It will be soon updated! :smiley:
 
-The aim of this project is to use a Deep Learning model to predict the heart rate from a Blood Volume Pulse (BVP) PPG signal contaminated by motion artefact. Indeed, due to motion artefact the heart rate can be hard to compute from a contaminated signal because the heart rate peaks are erased in the signal by acceleration. Using Fourier Spectrum and deep learning, one model predicts the heart rate from the spectrum while the other denoises the signal and then predicts the heart rate.
+This project aims to use a Deep Learning model to predict the heart rate from a Blood Volume Pulse (BVP) PPG signal contaminated by motion artifact. Indeed, due to motion artifact, the heart rate can be hard to compute from a contaminated signal because the heart rate peaks are noised in the signal by acceleration. Using the Fourier spectrum and deep learning, one model predicts the heart rate from the spectrum while the other denoises the signal and then predicts the heart rate.
 
 The methods used in this project are inspired by Chang's paper [[1]](#1) and Reiss's paper [[2]](#2) which tackle this subject.
 
